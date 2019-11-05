@@ -1,0 +1,33 @@
+form {
+    width: 450px;
+    margin: auto;
+    background: rgb(0,94,184);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+input,textarea {
+    font-family: 'Gloria Hallelujah', cursive;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+#boton {
+    background: #fff;
+}
+
+#boton:hover {
+    cursor: pointer;
+    background: cornflowerblue;
+}
