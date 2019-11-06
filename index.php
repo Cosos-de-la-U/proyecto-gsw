@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no, initial-scale=1, maxium-scale=1, minium-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Pupusas Virtuales</title>
-    <link rel="stylesheet" href="../css/estilos.css">
-    <link rel="icon" href="../images/favicon-pupusa.ico">
+    <link rel="stylesheet" href="static/css/estilos.css">
+    <link rel="icon" href="static/images/favicon-pupusa.ico">
 </head>
 <body>
     <header>
@@ -26,7 +26,7 @@
 
 <main>
     <section id="banner">
-        <img src="../images/pupusa-banner.jpg">
+        <img src="static/img/pupusa-banner.jpg">
         <div class="contenedor">
             <h2>¡A mi me gustan las pupusas!</h2>
             <p>Con curtido y salsa de tomate.</p>
@@ -43,15 +43,15 @@
         <h3>El Blog de las pupusas.</h3>
         <div class="contenedor">
         <article>
-            <img src="../images/pupusa-uno.jpg" alt="">
+            <img src="static/img/pupusa-uno.jpg" alt="">
             <h4>Famosos y Pupusas.</h4>
         </article>
         <article>
-            <img src="../images/pupusa-dos.jpg" alt="">
+            <img src="static/img/pupusa-dos.jpg" alt="">
             <h4>Comer pupusas previene la delgadez.</h4>
         </article>
         <article>
-            <img src="../images/pupusa-tres.jpg" alt="">
+            <img src="static/img/pupusa-tres.jpg" alt="">
             <h4>Nayib prohibe las pupusas de arroz.</h4>
         </article>
         </div>
