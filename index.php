@@ -61,12 +61,12 @@
 <section id="contacto">
 <form action="enviar.php" method="post">
     <h2>CONTACTO</h2>
-    <input type="text" name="nombre" placeholder="Nombre" required>
-    <input type="text" name="correo" placeholder="Correo" required>
-    <textarea name="mensaje" placeholder="Escribe aquí tu mensaje a la patria de la pupusa: " required></textarea>
+    <input type="text" name="name" placeholder="Nombre" required>
+    <input type="text" name="email" placeholder="Correo" required>
+    <textarea name="message" placeholder="Escribe aquí tu mensaje a la patria de la pupusa: " required></textarea>
     <input type="submit" value="Enviar" id="boton">
  </form>
-</section>
+</section>  
 
 <footer>
     <div class="contenedor">
