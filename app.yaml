@@ -1,6 +1,6 @@
 runtime: php55
 api_version: 1
-
+#pa correr las weas
 handlers:
 
 - url: /static
@@ -8,7 +8,4 @@ handlers:
 
 - url: /*
   script: /index.php
-
-
-
-
+        
