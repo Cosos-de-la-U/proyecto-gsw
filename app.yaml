@@ -7,5 +7,9 @@ handlers:
   static_dir: static
 
 - url: /*
+<<<<<<< HEAD
   script: /index.php
         
+=======
+  script: /index.php  
+>>>>>>> 9437f8889cc564471165b649ad4eb67a5f877d86

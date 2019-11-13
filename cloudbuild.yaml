@@ -3,4 +3,4 @@ steps:
   args: ['clone','https://github.com/raulpenate/proyecto-gsw','master']
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy"]
-timeout: "1600s"
+timeout: "2500s"
