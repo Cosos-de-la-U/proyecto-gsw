@@ -28,7 +28,7 @@
     <section id="banner">
         <img src="static/img/pupusa-banner.jpg">
         <div class="contenedor">
-            <h2>¡A mi me gustan las pupusas!</h2>
+            <h2>¡A mi me gustan las pupusas nenas!</h2>
             <p>Con curtido y salsa de tomate.</p>
             <a href="https://es.wikipedia.org/wiki/Pupusa" target="_blank">Leer más</a>
         </div>
