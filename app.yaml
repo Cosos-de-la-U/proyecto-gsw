@@ -8,7 +8,6 @@ runtime: php72
 # entrypoint: serve index.php
 #runtime: php55
 #api_version: 1
-##pa correr las weas
 handlers:
 #
 - url: /static
@@ -17,7 +16,4 @@ handlers:
 #- url: /*
 #  script: /index.php
 #        
-#=======
 #  script: /index.php  
-#>>>>>>> 9437f8889cc564471165b649ad4eb67a5f877d86
-#>>>>>>> 9fc12323a4dbf1cfbeb65ffce2f363be41b220a4
