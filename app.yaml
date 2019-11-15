@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Use the PHP 7.3 runtime (BETA) by replacing "php72" below with "php73"
 runtime: php72
 
@@ -6,4 +7,21 @@ runtime: php72
 # run a long-running PHP script as a worker process (e.g. "php worker.php").
 #
 # entrypoint: serve index.php
-
+#
+#=======
+#runtime: php55
+#api_version: 1
+##pa correr las weas
+#handlers:
+#
+#- url: /static
+#  static_dir: static
+#
+#- url: /*
+#<<<<<<< HEAD
+#  script: /index.php
+#        
+#=======
+#  script: /index.php  
+#>>>>>>> 9437f8889cc564471165b649ad4eb67a5f877d86
+#>>>>>>> 9fc12323a4dbf1cfbeb65ffce2f363be41b220a4
