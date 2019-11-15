@@ -29,7 +29,7 @@
         <img src="static/img/pupusa-banner.jpg">
         <div class="contenedor">
 <<<<<<< HEAD
-            <h2>¡A mi me gustan las pupusas nenaass!</h2>
+            <h2>¡A mi me gustan las pupusas nenaasass!</h2>
 =======
             <h2>¡A ti me gustan las pupusas!</h2>
 >>>>>>> 9fc12323a4dbf1cfbeb65ffce2f363be41b220a4
