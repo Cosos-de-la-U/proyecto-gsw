@@ -36,7 +36,7 @@
 
     <section id="pupusas">
 	<h4>Examen GSW Practico 2019, hecho por hector y Raul<h4>
-        <h2>¿Qué son las pupusas virtuales haber?/h2>
+        <h2>¿Qué son las pupusas virtuales haber?<h2>
         <p> Pupusas virtuales es un proyecto que desea virtualizar las pupusas para poderlas distribuir electrónicamente a todo El Salvador y luego a todo el mundo, ya que como sabemos las pupusas son amor y al compartirlas estamos repartiendo amor.</p>
     </section>
 
