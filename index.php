@@ -29,13 +29,12 @@
         <img src="static/img/pupusa-banner.jpg">
         <div class="contenedor">
             <h2>¡A mi me gustan las pupusas!</h2>
-            <p>Con curtido y salsa de tomate.</p>
+            <p>Con curtidio y salsa de tomate.</p>
             <a href="https://es.wikipedia.org/wiki/Pupusa" target="_blank">Leer más</a>
         </div>
     </section>
 
     <section id="pupusas">
-	<h4>Examen GSW Practico 2019, hecho por hector y Raul<h4>
         <h2>¿Qué son las pupusas virtuales haber?<h2>
         <p> Pupusas virtuales es un proyecto que desea virtualizar las pupusas para poderlas distribuir electrónicamente a todo El Salvador y luego a todo el mundo, ya que como sabemos las pupusas son amor y al compartirlas estamos repartiendo amor.</p>
     </section>
