@@ -35,7 +35,7 @@
     </section>
 
     <section id="pupusas">
-        <h2>¿Qué son las pupusas virtuales haber?<h2>
+        <h2>¿Qué son las pupusas virtuales haber? queremos ver como piensa usted..<h2>
         <p> Pupusas virtuales es un proyecto que desea virtualizar las pupusas para poderlas distribuir electrónicamente a todo El Salvador y luego a todo el mundo, ya que como sabemos las pupusas son amor y al compartirlas estamos repartiendo amor.</p>
     </section>
 
